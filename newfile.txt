@@ -1,1 +1,3 @@
 I add new line to file
+Addin another line
+New line in file
